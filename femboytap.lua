@@ -1,4 +1,4 @@
-local BASE        = rawget(_G, "FEMBOY_BASE") or "https://raw.githubusercontent.com/MudillaScripts/aw_cs2v6_femboytap/main/"
+local BASE        = rawget(_G, "FEMBOY_BASE") or "https://github.com/wendeng0407/FEMBOYTAP"
 local GUILIB_URL  = BASE .. "femboytap_guilib.lua"
 local CHANGER_URL = BASE .. "femboytap_changer.lua"
 
